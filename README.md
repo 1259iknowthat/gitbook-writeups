@@ -19,5 +19,7 @@ Contacts:
 
 {% hint style="info" %}
 If you find something wrong or mismatch, please contact me soon :D
+
+Btw my English is suck though lmao 😂
 {% endhint %}
 
