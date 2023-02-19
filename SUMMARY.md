@@ -1,5 +1,5 @@
 # Table of contents
 
-* [🎂 README 2022](README.md)
+* [❔ About me](README.md)
+* [🎂 README 2022](readme-2022.md)
 * [🚩 ISITDTU-CTF QUALS 2022](isitdtu-ctf-quals-2022.md)
-* [❔ About me](about-me.md)
